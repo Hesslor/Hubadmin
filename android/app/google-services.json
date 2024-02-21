@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "669481951159",
+    "firebase_url": "https://h-hube-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "h-hube",
+    "storage_bucket": "h-hube.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669481951159:android:9219652a57146648a85232",
+        "android_client_info": {
+          "package_name": "com.hhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669481951159-71tcr5b19es1v5fu4s2p8a5d79be6kci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hhub",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "669481951159-f8v66o73v8n82m3f3ek6bi740ob8i8an.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFDbaK40E1ZHOxvZMrZJf-LMF-kQ1sx_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669481951159-f8v66o73v8n82m3f3ek6bi740ob8i8an.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669481951159:android:0cd814abd28e1db4a85232",
+        "android_client_info": {
+          "package_name": "com.hubadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669481951159-f8v66o73v8n82m3f3ek6bi740ob8i8an.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFDbaK40E1ZHOxvZMrZJf-LMF-kQ1sx_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669481951159-f8v66o73v8n82m3f3ek6bi740ob8i8an.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669481951159:android:6c5e9ba0b6fcb42ea85232",
+        "android_client_info": {
+          "package_name": "com.reactnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669481951159-f8v66o73v8n82m3f3ek6bi740ob8i8an.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFDbaK40E1ZHOxvZMrZJf-LMF-kQ1sx_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669481951159-f8v66o73v8n82m3f3ek6bi740ob8i8an.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
